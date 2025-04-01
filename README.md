@@ -1,4 +1,4 @@
-# GNN-Jets
+# Graph Neural Network for Quark-Gluon Jet Classification
 
 Common Task 2: Build a GNN model to classify quark/gluon jets by converting nonzero image pixels into a point cloud, constructing graph representations with suitable node and edge features and training the model on these graphs, and analyzing its performance. 
 
